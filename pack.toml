@@ -1,0 +1,13 @@
+name = "Project Infinity"
+author = "GOGOLD007"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7d3e2969bc5745868883ec1af00e3c1a8e407ae786e5c8b52ae286f216a63d84"
+
+[versions]
+forge = "47.4.29"
+minecraft = "1.20.1"
