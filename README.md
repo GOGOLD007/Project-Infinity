@@ -13,8 +13,19 @@ A modern (1.20.1) modpack centered around Greg Tech with some magic mods and hea
 | Create | Early-game mechanical automation |
 | JEI (+ MezzConfig) | Recipe viewer |
 | Jade | Block/entity info overlay |
+| Botania | Nature/mana magic; very automatable, fits beside Create |
+| Ars Nouveau | Spellcrafting plus automation (Sourcelinks, relays, Starbuncles) |
+| Occultism | Spirit workers for item transport, ore processing and storage |
+| Blood Magic | Altar and ritual progression; good for mid/late gating |
+| Patchouli, Curios API, GeckoLib, SmartBrainLib, Modonomicon | Libraries required by the magic mods |
 
-Magic mods and a quest mod are still to be chosen. FTB Quests is only on CurseForge, so adding it needs `packwiz curseforge add`.
+### Planned progression ideas
+
+- Botania and Ars Nouveau start alongside the GregTech Steam/LV tiers.
+- Blood Magic altar tiers gate GregTech MV/HV components through KubeJS, and the reverse.
+- Occultism spirits offer a magic option for ore processing next to GregTech machines.
+
+A quest mod is still to be chosen. FTB Quests is only on CurseForge, so adding it needs `packwiz curseforge add`.
 
 ## Layout
 

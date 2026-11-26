@@ -23,8 +23,33 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "705856841852ca6823fb2b16c7e82c15ce251bf995ac6ac725ee5665d3b54dd1"
+metafile = true
+
+[[files]]
+file = "mods/blood-magic.pw.toml"
+hash = "63aab7e879e8608e55706524f0928fe9c65b431d78ce513e6077405af2c3c8b7"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "ff2aa5045d98d0303e288dd37a1613c6376d8cfe2c829219e6e7283fb86008bb"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "5d591c88e40c08d70a0fbdba62a1626f15a3371349752de3b7386d368185a035"
 metafile = true
 
 [[files]]
@@ -58,6 +83,26 @@ hash = "97a0aa0bfbad2bc5ae3e3454033df72c54b0e3ad45b95ecde451804a77a9eb0b"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "11a52fe3ca031baf3f9425b0ac98bc79c8818bc261ee8f59ee7d322193902658"
+metafile = true
+
+[[files]]
+file = "mods/occultism.pw.toml"
+hash = "2b4193156e0322eb82ce6dd168530cdcc77c64c186e277eec788f5bb30a22271"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "2242b76f7c4ee6d7f396a2d1380bee615d78408d00bff5cca38e4df777b18dc5"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "b592adf84840a655afc338c00be282ebe451a295a3ef73ec9d6c54e84a7803c2"
 metafile = true
