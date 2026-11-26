@@ -5,8 +5,16 @@ file = "kubejs/client_scripts/tooltips.js"
 hash = "88330af860eb69aa72ab89fb84c2bfdc797d127cff4c3ccf848c50af251e24c4"
 
 [[files]]
-file = "kubejs/server_scripts/recipes.js"
-hash = "0e9242bdd1117c1733b4e3912a64d8cf1d50fb5c3ca6f07973ae486a7b3c42a2"
+file = "kubejs/server_scripts/progression/00_steam.js"
+hash = "d28e90b6c24fde6b0dd67b765c4fcb039f01f613d6aa4f6f86dd1d99455173d5"
+
+[[files]]
+file = "kubejs/server_scripts/progression/01_lv.js"
+hash = "55c3309fd65a5e75398ce4f2b455f47da9669937fc3e5522f2cc802f078c0d60"
+
+[[files]]
+file = "kubejs/server_scripts/progression/02_mv.js"
+hash = "a7957e471bbfb7e217c520f6cdce71787e2e60249776370ce60a48f387854ab4"
 
 [[files]]
 file = "kubejs/startup_scripts/registry.js"
