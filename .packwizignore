@@ -1,0 +1,8 @@
+# Repo files that should not ship with the pack
+README.md
+LICENSE
+.git/
+.github/
+.gitignore
+.gitattributes
+.packwizignore

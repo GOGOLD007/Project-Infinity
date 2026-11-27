@@ -1,0 +1,6 @@
+# Local test instances / build outputs
+*.mrpack
+*.zip
+run/
+.idea/
+.vscode/
